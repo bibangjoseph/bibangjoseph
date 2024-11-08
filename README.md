@@ -1,4 +1,4 @@
-# 👋 **Salut, je suis Joseph BIBANG BEFENE !**  
+# 👋 **Salut, je suis Joseph Donovan BIBANG BEFENE !**  
 
 > **Développeur passionné | Enthousiaste du numérique | Curieux et optimiste**
 
