@@ -1,7 +1,3 @@
-Pour votre profil GitHub, voici une suggestion de **README.md** qui présente de manière professionnelle et attrayante votre personnalité, vos compétences et vos projets. Ce fichier sera affiché directement sur votre profil GitHub lorsque vous créez un dépôt nommé avec votre nom d'utilisateur.
-
----
-
 # 👋 **Salut, je suis Joseph BIBANG BEFENE !**  
 
 > **Développeur passionné | Enthousiaste du numérique | Curieux et optimiste**
@@ -56,7 +52,3 @@ Pour votre profil GitHub, voici une suggestion de **README.md** qui présente de
 
 ### 🎯 **Ma devise :**  
 _"La curiosité et l'optimisme sont les moteurs du succès."_  
-
----
-
-Vous pouvez personnaliser davantage cette structure en ajoutant des liens vers vos réseaux sociaux, badges ou en modifiant le style selon vos préférences. 😊
