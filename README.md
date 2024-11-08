@@ -6,8 +6,7 @@
 
 ## 🧑‍💻 **À propos de moi**  
 - 🌟 **Passionné par** : le sport, le numérique, le chant et les loisirs.  
-- 💼 **Profession** : Informaticien, développeur full-stack avec une expertise en **Angular**, **Laravel**, et la gestion de projets complexes.  
-- 📚 **Apprentissage en cours** : Je travaille actuellement sur des projets innovants et explore de nouvelles technologies comme les **signaux dans Angular**.  
+- 💼 **Profession** : Informaticien, développeur full-stack avec une expertise en **Angular**, **Laravel**, et la gestion de projets complexes.    
 - 🌍 **Engagement communautaire** : Organisateur et speaker pour des événements comme le **DevFest Gabon**.
 
 ---
