@@ -15,14 +15,14 @@
 ## 🛠️ **Compétences techniques**  
 
 ### **Développement Front-end :**
-- **Frameworks** : Angular, React, Vue.js  
+- **Frameworks** : Angular, Vue.js  
 - **Langages** : HTML, CSS, TypeScript, JavaScript  
 - **Librairies UI** : Bootstrap, TailwindCSS, Material Design  
 
 ### **Développement Back-end :**
-- **Frameworks** : Laravel, Node.js, Django  
-- **Bases de données** : PostgreSQL, MySQL, MongoDB  
-- **API** : RESTful, GraphQL  
+- **Frameworks** : Laravel
+- **Bases de données** : PostgreSQL, MySQL  
+- **API** : RESTful  
 
 ### **Outils & DevOps :**
 - Git, GitHub Actions, Docker, SSH, CI/CD, Postman  
@@ -46,7 +46,7 @@
 ## 🤝 **Rejoignez-moi !**  
 - 📫 **Contact** : [077702017](tel:+24077702017)  
 - 🌐 **Portfolio** : [Bientôt disponible]  
-- 💬 **Communauté** : [Angular Libreville Devs](https://chat.whatsapp.com/XXXXXX)  
+- 💬 **Communauté** : [Angular Libreville Devs]([https://chat.whatsapp.com/F5x5wg7Keuv2ZXIl1vsH5f])  
 
 ---
 
