@@ -44,7 +44,7 @@
 
 ## 🤝 **Rejoignez-moi !**  
 - 📫 **Contact** : [077702017](tel:+24077702017)  
-- 🌐 **Portfolio** : [Bientôt disponible]  
+- 🌐 **Portfolio** : [[BIBANG BEFENE Joseph Donovan]](https://bibang-joseph.vercel.app/)  
 - 💬 **Communauté** : [Angular Libreville Devs]([https://chat.whatsapp.com/F5x5wg7Keuv2ZXIl1vsH5f])  
 
 ---
