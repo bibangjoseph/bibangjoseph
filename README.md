@@ -1,125 +1,173 @@
-# 👋 **Salut, je suis Joseph Donovan BIBANG BEFENE !**  
-> **Développeur Full-Stack passionné | Architecte de solutions numériques | Speaker & Community Builder**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Joseph%20Donovan%20BIBANG%20BEFENE&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full-Stack%20|%20Architecte%20de%20solutions%20numériques&descAlignY=51&descAlign=62"/>
+</div>
+
+<h3 align="center">Speaker & Community Builder passionné par la création de solutions à fort impact 🚀</h3>
+
+<p align="center">
+  <a href="https://bibang-joseph.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/joseph-bibang"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/bibangjoseph"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="tel:+241077702017"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://chat.whatsapp.com/F5x5wg7Keuv2ZXIl1vsH5f"><img src="https://img.shields.io/badge/-Angular_Libreville_Devs-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🧑‍💻 **À propos de moi**  
-- 🌟 **Passionné par** : le sport, le numérique, le chant et les loisirs créatifs.  
-- 💼 **Profession** : Informaticien et développeur full-stack avec une expertise avérée en **Angular**, **Laravel**, et la gestion de projets complexes à fort impact.  
-- 🎤 **Speaker & Organisateur** : Animateur d'événements tech comme le **DevFest Gabon** et fondateur de communautés de développeurs.  
-- 🌍 **Engagement** : Créateur de solutions numériques qui transforment des secteurs clés (éducation, santé, finance, culture).
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+## 🧑‍💻 À propos de moi
+
+- 🌟 **Passionné par** : le sport, le numérique, le chant et les loisirs créatifs.
+- 💼 **Profession** : Informaticien et développeur full-stack avec une expertise en **Angular**, **Laravel**, et la gestion de projets.
+- 🎤 **Community Builder** : Animateur d'événements tech (DevFest Gabon) et fondateur de l'Angular Libreville Devs.
+- 🌍 **Engagement** : Créateur de solutions transformant des secteurs clés (éducation, santé, finance, culture).
+
+</td>
+<td width="50%" valign="top">
+
+## 🌱 En ce moment
+
+- 🔭 J'améliore **Gestho** avec un module IA pour l'aide au diagnostic.
+- 🌱 J'explore **NestJS** et les architectures microservices.
+- 📚 J'apprends les patterns avancés de **Domain-Driven Design (DDD)**.
+- 🎯 Je prépare des formations sur **Angular et Laravel**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ **Compétences techniques**  
+## 🛠️ Compétences Techniques
 
-### **Développement Front-end :**
-- **Frameworks** : Angular, Vue.js  
-- **Langages** : TypeScript, JavaScript, HTML5, CSS3  
-- **Librairies UI** : Bootstrap, TailwindCSS, Material Design, PrimeNG  
+<div align="center">
 
-### **Développement Back-end :**
-- **Frameworks** : Laravel, Node.js , NestJS 
-- **Bases de données** : PostgreSQL, MySQL, MongoDB  
-- **API** : RESTful  
+### 💻 Front-end
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 
-### **Outils & DevOps :**
-- Git, GitHub Actions, GitLab CI/CD, Docker, SSH, Postman, Nginx  
-- **Tests** : Jasmine, Karma
+### ⚙️ Back-end & BDD
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
----
+### 🛠️ Outils & DevOps
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" />
 
-## 🚀 **Projets marquants**  
-
-### **🎓 [SYGESCO](https://sygesco.ga)**  
-Plateforme complète de gestion scolaire avec tableau de bord administrateur et application mobile pour étudiants.  
-- **Stack** : Angular, Laravel, PostgreSQL  
-- **Fonctionnalités** : Gestion des inscriptions, notes, paiements, emplois du temps  
-
-### **🏥 [Gestho](https://gestho.ga)**  
-Solution de gestion hospitalière intégrée pour la prise en charge des patients et la gestion des ressources médicales.  
-- **Stack** : Angular, Laravel, MySQL  
-- **Fonctionnalités** : Dossiers patients, planning médical, pharmacie, facturation  
-
-### **💼 [Easyfact](https://easyfact.ga)**  
-Application de facturation et gestion commerciale pour PME et entrepreneurs.  
-- **Stack** : Angular, Laravel, PostgreSQL  
-- **Fonctionnalités** : Devis, factures, suivi clients, statistiques commerciales  
-
-### **📊 [Koda](https://koda.ga)**  
-Plateforme collaborative de gestion de projets et de tâches pour équipes agiles.  
-- **Stack** : Angular, Laravel, PostgreSQL  
-- **Fonctionnalités** : Kanban, Gantt, chat intégré, reporting avancé  
-
-### **🎵 [maPartoche](https://ma-partoche.ga)**  
-Application mobile pour promouvoir et commercialiser les partitions musicales des compositeurs gabonais.  
-- **Stack** : Angular, Ionic, Laravel  
-- **Impact** : Valorisation de la culture musicale locale  
-
-### **⛪ [eCatholique](https://e-catholique.ga)**  
-Application mobile dédiée aux églises catholiques pour faciliter la communication avec les fidèles.  
-- **Stack** : Angular, Ionic, Laravel  
-- **Fonctionnalités** : Annonces, prières quotidiennes, événements, dons en ligne  
+</div>
 
 ---
 
-## 📦 **Mes librairies npm Open Source**  
+## 🚀 Projets Marquants
 
-### **[ng-input-validation](https://www.npmjs.com/package/ng-input-validation)**  
-Librairie Angular pour la validation avancée de formulaires avec messages d'erreur personnalisables.  
-- ⭐ **+500 téléchargements**  
-- 🔧 Support des validations personnalisées et internationalisées  
-
-### **[ng-secure-access](https://www.npmjs.com/package/ng-secure-access)**  
-Solution complète de gestion des droits d'accès et permissions dans les applications Angular.  
-- 🔐 Guards, directives et services pour contrôler l'accès aux routes et composants  
-- 📈 **+300 téléchargements**  
-
-### **[angular-cli-helper](https://www.npmjs.com/package/angular-cli-helper)**  
-Collection d'outils CLI pour accélérer le développement Angular.  
-- ⚡ Génération rapide de composants avec templates pré-configurés  
-- 🎯 Automatisation des tâches répétitives  
-
----
-
-## 📈 **Mes réalisations en chiffres**  
-- 🔥 **10+ projets d'envergure déployés en production**  
-- 🎤 **3 conférences tech animées** (DevFest, meetups Angular)  
-- 📜 **3 librairies Angular publiées sur npm** avec +800 téléchargements cumulés  
-- 👥 **100+ développeurs** dans la communauté Angular Libreville Devs  
-- 💻 **6 solutions métiers** impactant l'éducation, la santé et les entreprises  
-
----
-
-## 🌱 **En ce moment**  
-- 🔭 Je travaille sur l'amélioration de **Gestho** avec un module IA pour l'aide au diagnostic  
-- 🌱 J'explore **NestJS** et les architectures microservices  
-- 📚 J'apprends les patterns avancés de **Domain-Driven Design (DDD)**  
-- 🎯 Je prépare des contenus de formation sur Angular et Laravel  
-
----
-
-## 🤝 **Rejoignez-moi !**  
-- 📫 **Téléphone** : [+241 077 70 20 17](tel:+24177702017)  
-- 🌐 **Portfolio** : [bibang-joseph.vercel.app](https://bibang-joseph.vercel.app/)  
-- 💼 **LinkedIn** : [Joseph Donovan BIBANG BEFENE](#)  
-- 🐙 **GitHub** : [@joseph-bibang](#)  
-- 💬 **Communauté** : [Angular Libreville Devs](https://chat.whatsapp.com/F5x5wg7Keuv2ZXIl1vsH5f)  
-
----
-
-## 🎯 **Ma philosophie**  
-_"La curiosité et l'optimisme sont les moteurs du succès. Je transforme des idées en solutions numériques robustes, scalables et accessibles qui améliorent concrètement la vie des utilisateurs."_
-
----
-
-## 💡 **Pourquoi travailler avec moi ?**  
-✅ **Expertise technique complète** : Full-stack avec maîtrise d'Angular et Laravel  
-✅ **Vision produit** : Je comprends les besoins métiers et les traduis en solutions techniques  
-✅ **Qualité & Performance** : Code propre, maintenable et optimisé  
-✅ **Engagement communautaire** : Partage de connaissances et mentorat  
-✅ **Résultats mesurables** : Projets livrés à temps avec impact réel  
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🎓 <a href="https://sygesco.ga">SYGESCO</a></h3>
+      <p>Plateforme de gestion scolaire complète.</p>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>🏥 <a href="https://gestho.ga">Gestho</a></h3>
+      <p>Solution de gestion hospitalière intégrée.</p>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💼 <a href="https://easyfact.ga">Easyfact</a></h3>
+      <p>Facturation et gestion pour PME.</p>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>📊 <a href="https://koda.ga">Koda</a></h3>
+      <p>Gestion collaborative de projets agiles.</p>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎵 <a href="https://ma-partoche.ga">maPartoche</a></h3>
+      <p>App mobile de partitions musicales.</p>
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>⛪ <a href="https://e-catholique.ga">eCatholique</a></h3>
+      <p>Communication pour paroisses catholiques.</p>
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-**🚀 Prêt à collaborer sur votre prochain projet innovant ? Contactez-moi !**
+## 📦 Librairies npm Open Source
+
+| Librairie | Statut | Description |
+|-----------|--------|-------------|
+| 🔒 **[ng-input-validation](https://www.npmjs.com/package/ng-input-validation)** | ![npm downloads](https://img.shields.io/npm/dt/ng-input-validation?color=blue&style=flat-square) | Validation avancée de formulaires Angular avec messages d'erreur. |
+| 🛡️ **[ng-secure-access](https://www.npmjs.com/package/ng-secure-access)** | ![npm downloads](https://img.shields.io/npm/dt/ng-secure-access?color=blue&style=flat-square) | Gestion des droits et permissions dans les applications Angular. |
+| ⚡ **[angular-cli-helper](https://www.npmjs.com/package/angular-cli-helper)** | ![npm downloads](https://img.shields.io/npm/dt/angular-cli-helper?color=blue&style=flat-square) | Outils CLI pour accélérer le développement (templates, automatisation). |
+
+---
+
+## 📈 Statistiques GitHub
+
+<div align="center">
+  <a href="https://github.com/bibangjoseph">
+    <img src="https://github-readme-stats.vercel.app/api?username=bibangjoseph&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/bibangjoseph">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibangjoseph&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>💡 Pourquoi travailler avec moi ?</h3>
+  <p>
+    ✅ <b>Expertise technique complète</b> (Full-stack Angular/Laravel)<br/>
+    ✅ <b>Vision produit</b> (Traduction des besoins métiers en solutions)<br/>
+    ✅ <b>Qualité & Performance</b> (Code propre, maintenable et optimisé)<br/>
+    ✅ <b>Engagement communautaire</b> (Partage et mentorat)<br/>
+  </p>
+  <br/>
+  <i>"La curiosité et l'optimisme sont les moteurs du succès. Je transforme des idées en solutions numériques robustes."</i><br/><br/>
+  <b>🚀 Prêt à collaborer ? <a href="mailto:contact@bibang-joseph.vercel.app">Contactez-moi !</a></b>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
