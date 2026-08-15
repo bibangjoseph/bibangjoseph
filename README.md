@@ -30,7 +30,7 @@
 
 ## 🌱 En ce moment
 
-- 🔭 J'améliore **Gestho** avec un module IA pour l'aide au diagnostic.
+- 🔭 Je travaille sur l'intégration de modules d'IA dans mes applications Web.
 - 🌱 J'explore **NestJS** et les architectures microservices.
 - 📚 J'apprends les patterns avancés de **Domain-Driven Design (DDD)**.
 - 🎯 Je prépare des formations sur **Angular et Laravel**.
@@ -89,21 +89,14 @@
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td width="50%">
-      <h3>🏥 <a href="https://gestho.ga">Gestho</a></h3>
-      <p>Solution de gestion hospitalière intégrée.</p>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3>💼 <a href="https://easyfact.ga">Easyfact</a></h3>
       <p>Facturation et gestion pour PME.</p>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>📊 <a href="https://koda.ga">Koda</a></h3>
       <p>Gestion collaborative de projets agiles.</p>
@@ -111,18 +104,9 @@
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3>🎵 <a href="https://ma-partoche.ga">maPartoche</a></h3>
+      <h3>🎵 <a href="https://mapartoche.ga/">maPartoche</a></h3>
       <p>App mobile de partitions musicales.</p>
-      <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>⛪ <a href="https://e-catholique.ga">eCatholique</a></h3>
-      <p>Communication pour paroisses catholiques.</p>
       <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
