@@ -149,7 +149,7 @@
   </p>
   <br/>
   <i>"La curiosité et l'optimisme sont les moteurs du succès. Je transforme des idées en solutions numériques robustes."</i><br/><br/>
-  <b>🚀 Prêt à collaborer ? <a href="mailto:contact@bibang-joseph.vercel.app">Contactez-moi !</a></b>
+  <b>🚀 Prêt à collaborer ? <a href="mailto:bibangjose@gmail.com">Contactez-moi !</a></b>
 </div>
 
 <p align="center">
